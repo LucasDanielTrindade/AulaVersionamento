@@ -1,0 +1,6 @@
+git
+- clone
+- add .
+- commit -texto aqui dentro"
+- push
+- status
